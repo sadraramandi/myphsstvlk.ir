@@ -1,5 +1,5 @@
 <?php
-$query = $_GET['query'];
+$query = $_POST['query'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
